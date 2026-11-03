@@ -1,6 +1,6 @@
 <div align="center">
 
-**简体中文** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [日本語](README.ja.md)
+**简体中文** | [繁體中文](README.zh-TW.md) | [English](README.en.md) | [日本語](README.ja.md) | [Español](README.es.md)
 
 ![Banner](docs/images/DiscImageStudio_Banner_2.png)
 
@@ -32,6 +32,8 @@ Windows 桌面版支持设计与刻录，Linux 和 macOS 的**实验性命令行
 Disc Image Studio 可将一张图片转换成符合 CD、DVD 与单层 BD-R 光盘物理层约束的数据，刻录后将使光盘盘面呈现肉眼可见的图案。
 
 ## 界面预览
+
+[Español — capturas de la interfaz](README.es.md#vista-de-la-interfaz)
 
 ![主页：模板与最近工程](docs/images/ui-home.png)
 
@@ -92,7 +94,7 @@ Disc Image Studio 提供了一套智能且精准的辅助标定流程，相较�
 
 ### 应用形态
 
-- 多语言界面：点击右上角「设置」按钮，在「通用 → 语言」选择简体中文、繁體中文、English、日本語或跟随系统，保存并重启应用后生效。语言和主题默认均跟随系统，已保存的明确选择继续保留；跟随系统时区分简体和繁体中文，日文系统使用日文，其他系统语言使用英文。
+- 多语言界面：点击右上角「设置」按钮，在「通用 → 语言」选择简体中文、繁體中文、English、日本語、Español 或跟随系统，保存并重启应用后生效。语言和主题默认均跟随系统，已保存的明确选择继续保留；跟随系统时区分简体和繁体中文，日文系统使用日文，西班牙文系统使用西班牙文，其他系统语言使用英文。
 - 双入口：不带参数将打开 GUI；带参数则进入统一命令行。
 - 模块化：CD、DVD 与蓝光通过 `IOpticalDiscModule` 接入，统一命令目录与任务契约，详见[架构说明](docs/ARCHITECTURE.md)。
 
